@@ -10,3 +10,6 @@ IMDB Bot allows you to get basic info for movies/series you like that is on IMDb
     <li> =help - List all of all IMDb bot commands </li>
     <li> =invite IMDB Bot Invite Link will be sent </li>
 </ul>
+
+# Bot Invite link
+<p>Use this link to invite the bot<a href="https://discord.com/oauth2/authorize?client_id=826940767712444476&permissions=0&scope=bot" rel="nofollow">link</a></p?
